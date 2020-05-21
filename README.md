@@ -1,2 +1,2 @@
 # CIM624-JinqiLi
-Augmented Reality
+### [Final Project Demo](https://youtu.be/2pTAfya2XsE)
