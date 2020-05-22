@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{1D81A611-A682-AB4D-A4FF-16C6B0D1552A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/placeObject.cs">
+    <Files>
+      <File FileName="Assets/Scripts/placeObject.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AR-Lowe-B-ipad" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="placeObject.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4915f9cb-01a8-4e12-a1c5-6f8e006221a3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

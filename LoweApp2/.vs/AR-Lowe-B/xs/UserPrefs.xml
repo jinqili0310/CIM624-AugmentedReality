@@ -1,0 +1,67 @@
+﻿<Properties StartupConfiguration="{3B0D2961-B693-50AB-82C8-B779ABFB1A59}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/placeObject.cs">
+    <Files>
+      <File FileName="Assets/Scripts/sculptureChoose.cs" Line="29" Column="6" />
+      <File FileName="Assets/Scripts/placeObject.cs" Line="28" Column="66" />
+      <File FileName="Assets/Scripts/sceneLoader.cs" Line="14" Column="1" />
+      <File FileName="Assets/NativeShare/README.txt" Line="1" Column="1" />
+      <File FileName="Assets/NativeShare/Editor/NSPostProcessBuild.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/VoxelBusters/NativePlugins/Plugins/Features/Sharing/Binding/Base/Sharing.cs" Line="243" Column="26" />
+      <File FileName="Assets/VoxelBusters/NativePlugins/Demo/Scripts/Features/SharingDemo.cs" Line="38" Column="36" />
+      <File FileName="Assets/Standard Assets/VoxelBusters/NativePlugins/Plugins/Features/Sharing/Utility/ShareImageUtility.cs" Line="50" Column="27" />
+      <File FileName="Assets/Standard Assets/VoxelBusters/NativePlugins/Plugins/Features/Sharing/DataTypes/ShareSheet/ShareSheet.cs" Line="111" Column="10" />
+      <File FileName="Assets/Standard Assets/VoxelBusters/NativePlugins/Plugins/Features/Sharing/DataTypes/Composer/Message/MessageShareComposer.cs" Line="79" Column="10" />
+      <File FileName="Assets/Standard Assets/VoxelBusters/Common/Utility/UI/Script/Base/GUIModalWindow.cs" Line="50" Column="5" />
+      <File FileName="Assets/Standard Assets/VoxelBusters/Common/AssetStoreProductUtility/Demo/Scripts/DemoMainMenu.cs" Line="71" Column="4" />
+      <File FileName="Assets/NativeShare/NativeShare.cs" Line="6" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AR-Lowe-B" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="NativeShare" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="placeObject.cs" selected="True" />
+              </Node>
+              <Node name="Standard Assets" expanded="True">
+                <Node name="VoxelBusters" expanded="True">
+                  <Node name="Common" expanded="True">
+                    <Node name="AssetStoreProductUtility" expanded="True">
+                      <Node name="Demo" expanded="True">
+                        <Node name="Scripts" expanded="True" />
+                      </Node>
+                    </Node>
+                    <Node name="Utility" expanded="True">
+                      <Node name="UI" expanded="True">
+                        <Node name="Script" expanded="True">
+                          <Node name="Base" expanded="True" />
+                        </Node>
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="VoxelBusters" expanded="True">
+                <Node name="NativePlugins" expanded="True">
+                  <Node name="Demo" expanded="True">
+                    <Node name="Scripts" expanded="True">
+                      <Node name="Features" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4915f9cb-01a8-4e12-a1c5-6f8e006221a3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
