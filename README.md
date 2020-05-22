@@ -1,2 +1,3 @@
 # CIM624-AugmentedReality
-### [Final Project Demo](https://youtu.be/2pTAfya2XsE)
+### [Midterm Demo](https://youtu.be/Q8Xv-hrh-a8)
+### [Final Demo](https://youtu.be/2pTAfya2XsE)
